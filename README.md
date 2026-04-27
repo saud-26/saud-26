@@ -1,5 +1,7 @@
 # 💫 About Me:
-🔭 I’m currently working on immersive 3D web experiences using Next.js and Framer Motion, as well as full-stack e-commerce platforms like "Paradise Taste."<br><br>👯 I’m looking to collaborate on innovative IoT projects or creative frontend designs that push the boundaries of the modern web.<br><br>🤝 I’m looking for help with advanced hardware-software integration, particularly for sports-tech projects involving microcontrollers.<br><br>🌱 I’m currently learning Deep Tech integration with ESP32-S3 and mastering the latest features in React and Next.js.<br><br>💬 Ask me about Full-stack development, IoT engineering, 3D browser animations, or building AI-integrated e-commerce solutions.<br><br>⚡ Fun fact: I am a massive cricket fan—if I'm not coding, I'm likely watching the IPL or cheering for Surya Kumar Yadav!
+🔭 I’m currently working on immersive 3D web experiences using Next.js and Framer Motion, as well as full-stack e-commerce platforms like "Paradise Taste."<br><br>👯 I’m looking to collaborate on innovative IoT projects or creative frontend designs that push the boundaries of the modern web.<br><br>🤝 I’m looking for help with advanced hardware-software integration, particularly for sports-tech projects involving microcontrollers.<br><br>🌱 I’m currently learning Deep Tech integration with ESP32-S3 and mastering the latest features in React and Next.js.<br><br>💬 Ask me about Full-stack development, IoT engineering, 3D browser animations, or building AI-integrated e-commerce solutions.<br><br>⚡ Fun fact: I am a massive sports & reader fan—if I'm not coding, I must playing cricket or Football or READING Novels 
+
+sometime i do Write shyari & short poetry 
 
 
 ## 🌐 Socials:
